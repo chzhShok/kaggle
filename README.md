@@ -1,2 +1,2 @@
-# kaggle
+# kaggle_competitions
 kaggle competitions
